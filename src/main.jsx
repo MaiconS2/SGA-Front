@@ -12,7 +12,7 @@ import Viagens from './pages/Viagens'
 import RecSenha from './pages/Rec_senha'
 import SaibaMais from './pages/Saiba_mais'
 import Suporte from './pages/Suporte'
-import './styles/global.css'
+import './index.css'
 
 function App() {
   return (
