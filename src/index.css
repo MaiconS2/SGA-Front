@@ -37,7 +37,6 @@
   }
 }
 
-/* Utilities = classes personalizadas reutilizáveis */
 @layer utilities {
   .container {
     max-width: var(--max-width);
