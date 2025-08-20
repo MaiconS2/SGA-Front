@@ -1,5 +1,4 @@
-﻿import "./index.css";
-
+﻿
 function Saiba_mais() {
   return (
     <>

@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import "../Login/index.css";
 
 function Register() {
   return (

@@ -1,7 +1,4 @@
-﻿body {
-    background: linear-gradient(180deg, #000 0%, #0b0b0b 100%);
-}
-
+﻿
 .main-wrap {
     display: flex;
     min-height: 100vh;

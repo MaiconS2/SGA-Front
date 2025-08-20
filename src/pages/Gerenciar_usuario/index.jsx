@@ -1,5 +1,4 @@
-﻿import "./index.css";
-
+﻿
 function Usuarios() {
   return (
     <>
