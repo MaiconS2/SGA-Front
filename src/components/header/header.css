@@ -1,0 +1,25 @@
+﻿.header {
+  background-color: #1F2937;
+  padding: 1rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.logo img {
+  height: 36px;
+  border-radius: 6px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.site-nav a {
+  margin-left: 1rem;
+  color: #000000;
+  font-weight: 600;
+}
+
+
+
